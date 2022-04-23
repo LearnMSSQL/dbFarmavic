@@ -59,7 +59,8 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>1</Count>
+    <Count>2</Count>
     <DataFile>dbo.CLIENTE_Data.sql</DataFile>
+    <DataFile>dbo.VENDEDOR_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
